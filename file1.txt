@@ -2,3 +2,4 @@ testing GIT
 testgir4
 test5
 testing push
+test maven
